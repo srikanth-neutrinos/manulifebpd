@@ -1,0 +1,14 @@
+
+<form id="919624370">
+<property name="name" value="project1.EscalatedProcess-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="processVarTwo" type="InputText" id="1007364405">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;processVarTwo (processVarTwo)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="processVarTwo"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="" name="#0000A0" type="basicType" outId="processVarTwo" value="java.lang.String" id="processVarTwo"/>
+</form>

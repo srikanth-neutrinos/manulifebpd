@@ -1,0 +1,14 @@
+
+<form id="621656158">
+<property name="name" value="project1.boundaryTimerProcess-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="processVarOne" type="InputText" id="263419176">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;processVarOne (processVarOne)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="processVarOne"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="" name="#0000A0" type="basicType" outId="processVarOne" value="java.lang.String" id="processVarOne"/>
+</form>
